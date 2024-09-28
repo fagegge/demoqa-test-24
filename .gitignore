@@ -1,6 +1,6 @@
-     HELP.md
-     build/
-     !**/src/main/**
+HELP.md
+build/
+!**/src/main/**
      !**/src/test/**
 
      ### IntelliJ IDEA ###
